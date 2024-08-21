@@ -1,4 +1,4 @@
-# YOLOv8/YOLOv5 Inference C++
+# YOLOv8/YOLOv5 v11 Inference C++
 
 This example demonstrates how to perform inference using YOLOv8 and YOLOv5 models in C++ with OpenCV's DNN API.
 
