@@ -1,4 +1,4 @@
-# [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)
+# [YOLOv11: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)
 
 
 Official PyTorch implementation of **YOLOv10**.
